@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bitbyte1988
-- 👀 I’m interested in ... Learning Javascript
-- 🌱 I’m currently learning ... Javascript
+- 👀 I’m interested in ... https://danielyxie.github.io/bitburner/ & learning Javascript
+- 🌱 I’m currently learning ... https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 - 💞️ I’m looking to collaborate on ... Bitburner
 - 📫 How to reach me ... maybe here or my gmail
 
